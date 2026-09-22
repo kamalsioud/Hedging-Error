@@ -817,18 +817,6 @@ The BS vega ratio assumes a parallel shift of a constant-vol surface that doesn'
 
 ---
 
-## Requirements
-
-```bash
-pip install numpy pandas scipy matplotlib
-```
-
-```r
-install.packages(c("tseries", "rugarch"))
-```
-
----
-
 ## References
 
 1. Heston, S. L. (1993). [A Closed-Form Solution for Options with Stochastic Volatility.](https://doi.org/10.1093/rfs/6.2.327) *Review of Financial Studies*, 6(2), 327–343.
